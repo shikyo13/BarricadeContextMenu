@@ -40,7 +40,6 @@ It also fixes a vanilla bug in `ISBarricadeAction:isValid()` where `ItemType.HAM
 ## Credits
 
 - ZeroTheAbsolute — Build 42 mod
-- Claude — Pair programming assistant
 
 ## License
 
